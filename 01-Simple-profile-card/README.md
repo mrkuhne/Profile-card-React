@@ -12,3 +12,7 @@ I learned how to :
 - Write `JSX` in components for _data, logic, appearance_
 - Render _Lists_ using `.map` function
 - Render certain components `conditionally`
+
+*** 
+
+[Back to main folder](https://github.com/mrkuhne/React-Projects/tree/main)

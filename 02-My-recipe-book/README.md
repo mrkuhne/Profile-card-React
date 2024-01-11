@@ -12,3 +12,7 @@ Continuing my learning with React I downloaded some of my instagram pictures of 
   `const MyFunction = () => return "My function"; `  
   instead of traditional functions  
   `function MyFunction = {return "My function"};`
+  
+*** 
+
+[Back to main folder](https://github.com/mrkuhne/React-Projects/tree/main)
